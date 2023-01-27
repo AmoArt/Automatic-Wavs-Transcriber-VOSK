@@ -1,6 +1,7 @@
 # Automatic-Wavs-Transcriber-VOSK
 Codedump for the script designed to use VOSK to transcribe the wav dataset files offline on CPU
 
+to use it start by creaing two empty folders "_transcriptInvidual" and "_transcriptMaster".
 
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
