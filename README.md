@@ -47,14 +47,14 @@ automatially remove anything inside of those two when running new project
 Fourth, make sure your wavs are saved in mono, 
 and that sample rate of the files is written in the scrip 'audioFrameHz' portion.
 
-Fifth, the process is bit slow, it takes 30 seconds per single file transcription and
+Fifth, the process is bit slow, it may takes 30 seconds per single file transcription and
 I do not have any query system so it all needs to be done in one go (or you can seperate
 the boundles of audio files into smaller groups in their folder and move them back together
 once you are done transcribing them in batches)
 
 
-Finally, the transcipt do NOT adds any puncuation, so you will have to listing to all the
-clips and add all the fullstops, commas, question marks and exclamation marks.
+Finally, the transcipt do NOT adds any puncuation, so you will have to re-listing to all the
+audio clips and add all the necessary fullstops, commas, question marks and exclamation marks to create a functioning audio dataset.
 Yes, this is pretty slow process but its faster than doing it by hand, also the transcript
 is not perfect so you will need to correct minor mistakes anyway when they happen for
 better quality training files.
