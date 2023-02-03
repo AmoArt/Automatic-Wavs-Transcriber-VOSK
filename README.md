@@ -35,6 +35,7 @@ so you will need to install those two modules
 (maybe more if the cmd will shout at you for missing modules)
 
 pip install vosk
+
 pip install pyaudio
 
 
