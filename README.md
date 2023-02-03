@@ -47,7 +47,7 @@ automatially remove anything inside of those two when running new project
 Fourth, make sure your wavs are saved in mono, 
 and that sample rate of the files is written in the scrip 'audioFrameHz' portion.
 
-Fifth, the porcess is bit slow, it takes 30 seconds per single file transcription and
+Fifth, the process is bit slow, it takes 30 seconds per single file transcription and
 I do not have any query system so it all needs to be done in one go (or you can seperate
 the boundles of audio files into smaller groups in their folder and move them back together
 once you are done transcribing them in batches)
