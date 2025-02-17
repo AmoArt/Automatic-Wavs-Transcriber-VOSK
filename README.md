@@ -3,6 +3,14 @@ Codedump for the script designed to use VOSK to transcribe the wav dataset files
 
 to use it start by creaing two empty folders "_transcriptInvidual" and "_transcriptMaster".
 
+unzip 'vosk-model-en-us-0.22' and edit the main pythin file to add the directory to it e.g.
+theModelDir = (r"C:\PYTHON_CODE\Automatic-Wavs-Transcriber-VOSK-main\vosk-model-en-us-0.22")
+
+
+install modules "vosk" and "pyaudio", 
+
+than start the main script and paste the fold directory of WAVs in main terminal when prompted.
+
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
 
